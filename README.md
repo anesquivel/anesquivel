@@ -1,7 +1,7 @@
 ###  WELCOME TO MY GITHUB PROFILE 🙌🏻:
 
-Hi, I’m @anesquivel 😌, better known as Andy! I'm a curious girl from Mexico🇲🇽 working hard everyday to archieve her dreams! 
-I'm a Software Developer 
+Hi, I’m @anesquivel 😌, better known as Andy! I'm a curious girl from Mexico🇲🇽 working hard everyday to archieve my dreams! And also, but no less important... 
+I'm a Software Developer !!!
 
 - :telescope: I’m working as a Software Engineer and contributing to BFB for building web applications.
 
